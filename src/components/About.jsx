@@ -63,15 +63,13 @@ export default function About() {
                 About Me
               </Heading>
               <Text fontSize="xl" mb={6}>
-                UI/UX Designer & Web Developer
+                Full Stack Software Developer
               </Text>
               <Text mb={6}>
-                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
-                aut fugit, sed quia consequuntur magni dolores eos qui ratione
-                voluptatem sequi nesciunt.
+                I'm Dipak Dhariyaparmar, a full-stack developer skilled in MERN stack, Next.js, NestJS, Java, C#, Python, DevOps, and an AI/ML enthusiast.
               </Text>
               <Text mb={8}>
-                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet
+                Passionate about building scalable web applications and always eager to learn emerging technologies.
               </Text>
 
               <Grid templateColumns="1fr 1fr" gap={6} mb={8}>
