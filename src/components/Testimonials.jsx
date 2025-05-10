@@ -12,6 +12,7 @@ import { FaQuoteLeft } from "react-icons/fa";
 
 const MotionBox = motion(Box);
 
+// sample data 
 const testimonials = [
   {
     name: "Sara Wilsson",
