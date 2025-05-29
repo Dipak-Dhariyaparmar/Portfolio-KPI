@@ -116,3 +116,5 @@ export default function Contact() {
     </Box>
   );
 }
+
+// this coponent is a contact us 
