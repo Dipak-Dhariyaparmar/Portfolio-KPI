@@ -102,3 +102,4 @@ export default function Services() {
     </Box>
   );
 }
+// this is a services component
