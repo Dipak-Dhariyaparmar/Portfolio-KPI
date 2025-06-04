@@ -86,4 +86,4 @@ export default function Skills() {
   );
 }
 
-// this is a skills component
+// this is a skills related component
