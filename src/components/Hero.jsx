@@ -72,3 +72,4 @@ export default function Hero() {
     </Flex>
   );
 }
+// this is a hero section component
