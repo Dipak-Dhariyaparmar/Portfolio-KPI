@@ -117,4 +117,4 @@ export default function Contact() {
   );
 }
 
-// this coponent is a contact us 
+// this is a contact us component
