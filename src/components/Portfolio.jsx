@@ -131,4 +131,4 @@ export default function Portfolio() {
   );
 }
 
-// this is a portfolio component
+// this is a portfolio related component
