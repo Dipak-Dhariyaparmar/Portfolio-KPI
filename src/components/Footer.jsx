@@ -32,4 +32,3 @@ export default function Footer() {
     </Box>
   );
 }
-// this is a footer component
