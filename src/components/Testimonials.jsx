@@ -91,4 +91,3 @@ export default function Testimonials() {
     </Box>
   );
 }
-// this is a testionial related component
