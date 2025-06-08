@@ -85,4 +85,3 @@ export default function Navbar() {
     </Flex>
   );
 }
-// this is a navbar component
