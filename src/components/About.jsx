@@ -94,3 +94,5 @@ export default function About() {
     </Box>
   );
 }
+
+// this component is related to about-us page
