@@ -88,7 +88,6 @@ export default function Services() {
               boxShadow="md"
               textAlign="center"
               _hover={{ boxShadow: "xl", transform: "translateY(-5px)" }}
-              //   transition="all 0.3s ease"
             >
               <Icon as={service.icon} boxSize={10} color="blue.500" mb={4} />
               <Heading as="h3" size="md" mb={3}>
@@ -102,3 +101,5 @@ export default function Services() {
     </Box>
   );
 }
+
+// this component is related to service page
