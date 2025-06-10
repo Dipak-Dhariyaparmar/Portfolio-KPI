@@ -51,3 +51,5 @@ function App() {
 }
 
 export default App;
+
+// this component is related to app page
