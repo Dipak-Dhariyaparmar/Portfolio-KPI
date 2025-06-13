@@ -72,5 +72,3 @@ export default function Hero() {
     </Flex>
   );
 }
-
-// this component is related to hero page
