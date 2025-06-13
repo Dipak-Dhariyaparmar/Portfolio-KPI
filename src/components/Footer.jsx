@@ -32,5 +32,3 @@ export default function Footer() {
     </Box>
   );
 }
-
-// this component is related to footer page
