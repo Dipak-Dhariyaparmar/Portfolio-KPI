@@ -130,3 +130,5 @@ export default function Portfolio() {
     </Box>
   );
 }
+
+// This component is a related to Portfolio page
