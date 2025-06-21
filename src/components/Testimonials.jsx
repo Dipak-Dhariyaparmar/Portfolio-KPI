@@ -12,7 +12,6 @@ import { FaQuoteLeft } from "react-icons/fa";
 
 const MotionBox = motion(Box);
 
-// sample data 
 const testimonials = [
   {
     name: "Sara Wilsson",
@@ -91,5 +90,3 @@ export default function Testimonials() {
     </Box>
   );
 }
-
-// This component is a related to Testimonials page
