@@ -85,3 +85,4 @@ export default function Skills() {
     </Box>
   );
 }
+// This component is related to skills page
