@@ -101,3 +101,4 @@ export default function Services() {
     </Box>
   );
 }
+// This component is related to services page
