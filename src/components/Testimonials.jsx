@@ -90,4 +90,3 @@ export default function Testimonials() {
     </Box>
   );
 }
-// This component is related to Testimonail page
