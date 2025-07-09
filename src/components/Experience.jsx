@@ -189,4 +189,3 @@ export default function Experience() {
     </Box>
   );
 }
-// This component is related to Experince page
