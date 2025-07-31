@@ -95,3 +95,4 @@ export default function FAQ() {
     </Box>
   );
 }
+// This component is related to faq
