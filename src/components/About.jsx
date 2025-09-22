@@ -1,4 +1,4 @@
-//This component is related to abount-us pages
+//This component is related to abount-us page
 
 import {
   Box,
