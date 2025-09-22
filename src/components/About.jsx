@@ -1,4 +1,4 @@
-//This component is related to about-us pages
+//This component is related to about-us page
 
 import {
   Box,
