@@ -1,3 +1,5 @@
+//This component is related to abount-us page
+
 import {
   Box,
   Flex,
