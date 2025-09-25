@@ -1,4 +1,4 @@
-// This component is related to Contactus pagess
+// This component is related to Contactus pages
 
 import {
   Box,
